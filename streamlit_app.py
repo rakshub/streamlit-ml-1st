@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 
-st.title('ML App')
+st.title('Penguin Species')
 
 st.write('This is machine learning app!')
 with st.expander("Data"):
